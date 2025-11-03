@@ -1,0 +1,8 @@
+streamlit
+pandas
+mlxtend
+streamlit-option-menu
+openpyxl
+numpy
+scikit-learn
+matplotlib
